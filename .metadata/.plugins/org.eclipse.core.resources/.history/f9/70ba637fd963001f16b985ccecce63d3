@@ -1,0 +1,10 @@
+package _12_FibonacciSeries;
+
+public class FProblem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
